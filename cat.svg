@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 90" width="240" height="90" role="img" aria-label="ASCII cat with a bobbing head">
+  <style>
+    text { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 20px; fill: #24292f; }
+    @media (prefers-color-scheme: dark) { text { fill: #c9d1d9; } }
+  </style>
+  <!-- tail and ground stay still -->
+  <text x="176 188 200" y="30">(`\</text>
+  <text x="188 212" y="54">))</text>
+  <text x="8 20 32 44 56 68 80 92 104 116 128 140 152 164 176 188 200 212" y="78">-(((---(((--------</text>
+  <!-- head bobs up and down -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -5; 0 0" dur="1.2s" repeatCount="indefinite" calcMode="spline" keyTimes="0; 0.5; 1" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+    <text x="56 68 80 92 104 116 128" y="30">|\__/,|</text>
+    <text x="32 44 56 68 92 128 140" y="54">_.|oo|_</text>
+  </g>
+</svg>
