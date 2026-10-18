@@ -73,8 +73,4 @@ Things I built because something annoyed me.
 
 ---
 
-<p align="center">thanks for stopping by ✌️</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zurusfig&label=Visitors&color=0e75b6&style=flat" alt="visitor counter" />
-</p>
+<p align="center">thanks for stopping by ✌️</p> <p align="center"> <img src="https://hits.sh/github.com/Zurusfig/Zurusfig.svg?style=for-the-badge&label=VISITORS&labelColor=7ee787&color=7ee787" alt="visitor counter" /> </p>
