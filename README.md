@@ -31,15 +31,13 @@ Things I built because something annoyed me.
 
 ## 📚 Course projects
 
-| Course | Project | What it does |
-|---|---|---|
-| Software Engineering | [ShibaSolver](https://github.com/Zurusfig/ShibaSolver) | A study helper app for students, built by a 9-person Agile team over one semester |
-| Software Architecture | [fishertimer](https://github.com/neennera/fishertimer) | A study timer where focus sessions grow a fish tank. Study alongside others in real time and climb the leaderboard. Built as 7 Go microservices |
-| Software Development Practice 2 | [EventTicketingSystem](https://github.com/Zurusfig/EventTicketingSystem) | The Performers: browse live events, request tickets, and let admins run the listings ([demo](https://event-ticketing-system-one.vercel.app)) |
-| High Performance Architecture | [HPA_final_project](https://github.com/Zurusfig/HPA_final_project) | Place power plants in as few cities as possible so every city is covered. A parallel C solver that proves the answer is optimal when it can |
-| Computer Networks | [socket-programming-project](https://github.com/tangenn/socket-programming-project) | A real-time chat app with chat rooms, group chats and online status, plus rock-paper-scissors you can play inside the chat. All over Socket.IO |
-| Pattern Recognition | [nca_demo](https://github.com/Zurusfig/nca_demo) | Watch a pixel-art tree grow from a single cell, then use sliders to change how much sunlight and fertilizer it gets. Based on Growing Neural Cellular Automata ([demo](https://nca-demo-nng1.vercel.app/)) |
-| Programming Methodology | [super-tictactoe-ultimate](https://github.com/Zurusfig/super-tictactoe-ultimate) | Ultimate Tic-Tac-Toe on a board of nine small games, with item drops you can craft into power-ups |
+- **Software Engineering:** [ShibaSolver](https://github.com/Zurusfig/ShibaSolver): a study helper app for students, built by a 9-person Agile team over one semester.
+- **Software Architecture:** [fishertimer](https://github.com/neennera/fishertimer): a study timer where focus sessions grow a fish tank. Study alongside others in real time and climb the leaderboard. Built as 7 Go microservices.
+- **Software Development Practice 2:** [EventTicketingSystem](https://github.com/Zurusfig/EventTicketingSystem): The Performers. Browse live events, request tickets, and let admins run the listings. ([demo](https://event-ticketing-system-one.vercel.app))
+- **High Performance Architecture:** [HPA_final_project](https://github.com/Zurusfig/HPA_final_project): place power plants in as few cities as possible so every city is covered. A parallel C solver that proves the answer is optimal when it can.
+- **Computer Networks:** [socket-programming-project](https://github.com/tangenn/socket-programming-project): a real-time chat app with chat rooms, group chats and online status, plus rock-paper-scissors you can play inside the chat. All over Socket.IO.
+- **Pattern Recognition:** [nca_demo](https://github.com/Zurusfig/nca_demo): watch a pixel-art tree grow from a single cell, then use sliders to change how much sunlight and fertilizer it gets. Based on Growing Neural Cellular Automata. ([demo](https://nca-demo-nng1.vercel.app/))
+- **Programming Methodology:** [super-tictactoe-ultimate](https://github.com/Zurusfig/super-tictactoe-ultimate): Ultimate Tic-Tac-Toe on a board of nine small games, with item drops you can craft into power-ups.
 
 ---
 
