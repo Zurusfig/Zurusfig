@@ -1,6 +1,6 @@
 # my name is zagif
 
-currently a senior computer engineering student in chula
+currently a senior computer engineering student @ chulalongkorn university
 
 my [website](https://zagif.com) (please tap the card)
 | my [linked in](https://www.linkedin.com/in/ittichet-thongsang-451021413/)
@@ -23,7 +23,7 @@ things i built
 
 ---
 
-## cour projects
+## course projects
 
 - **software engineering:** [ShibaSolver](https://github.com/Zurusfig/ShibaSolver): a study helper app for students, built by a 9-person Agile team over one semester.
 - **software architecture:** [fishertimer](https://github.com/neennera/fishertimer): a study timer where focus sessions grow a fish tank. study alongside others in real time and climb the leaderboard. built as 7 Go microservices.
