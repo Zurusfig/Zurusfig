@@ -2,7 +2,7 @@
 
 currently a senior computer engineering student @ chulalongkorn university
 
-my [website](https://zagif.com) (please tap the card)
+my [website](https://zagif.com) (try tapping the card)
 | my [linked in](https://www.linkedin.com/in/ittichet-thongsang-451021413/)
 
 <p align="center">
